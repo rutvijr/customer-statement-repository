@@ -1,0 +1,7 @@
+---
+applications:
+- name: customer-statement-processor-service
+  memory: 1024M
+  instances: 1
+  env:
+    SPRING_PROFILES_ACTIVE : dev
