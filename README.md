@@ -2,10 +2,13 @@
 
 ## Getting Started
 
-### Prerequisites
+### [Live App](https://customerstatementprocessorservice.cfapps.io/swagger-ui.html#/) (deployed to PCF)
+
+
+### Prerequisites to starting the app locally
 Clone the CustomerStatementProcessorService Project from the remote git repo (in github) into a local git repo (local machine) and import into Spring Tool Suite (STS).
 
-### Starting the app and using Swagger
+### Starting the app locally and using Swagger
 
 1. Starting the boot app via command line
     * Open the command prompt where the CustomerStatementProcessorService project is located.
