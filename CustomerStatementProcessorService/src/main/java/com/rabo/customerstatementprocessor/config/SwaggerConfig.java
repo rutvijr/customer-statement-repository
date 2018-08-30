@@ -24,7 +24,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * This class contains the Swagger documentation for this service.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 @Configuration

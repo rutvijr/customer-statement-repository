@@ -9,7 +9,7 @@ import com.rabo.customerstatementprocessor.model.TransactionRecordFailure;
  * This class validates transactions from a Java IO source, (such as an
  * InputStream).
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public interface TransactionIOBasedValidationService

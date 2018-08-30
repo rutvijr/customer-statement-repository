@@ -7,7 +7,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
  * It contains the error response details (the errorCode and the errorMessage)
  * for this service.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)

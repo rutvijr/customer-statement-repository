@@ -8,7 +8,7 @@ import com.rabo.customerstatementprocessor.constant.FileTypeConstants;
  * This class contains useful methods to work with mimeTypes, including
  * string representations of mime types (such as text/csv).
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public class MimeTypeUtils

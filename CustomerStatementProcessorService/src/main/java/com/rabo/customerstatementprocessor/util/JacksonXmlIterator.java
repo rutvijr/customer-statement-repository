@@ -20,7 +20,7 @@ import com.rabo.customerstatementprocessor.exception.RaboSystemException;
  * It's an adapter between the Jackson incremental reading code (using StaX's
  * XMLStreamReader and Jackson's XmlMapper) and java.util.Iterator
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public class JacksonXmlIterator<E> implements Iterator<E>

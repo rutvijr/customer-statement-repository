@@ -11,7 +11,7 @@ import com.rabo.customerstatementprocessor.model.TransactionRecordFailure;
  * records. The transaction records might be in-memory (such as a Collection)
  * or could be from secondary storage.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public interface TransactionValidationService

@@ -21,7 +21,7 @@ import com.rabo.customerstatementprocessor.util.JacksonXmlIterator;
  * This class contains useful methods that return abstractions (such as an
  * Iterator) for working with XML files.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 @Service

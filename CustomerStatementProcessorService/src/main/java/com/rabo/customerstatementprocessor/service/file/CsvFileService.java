@@ -7,7 +7,7 @@ import java.util.Iterator;
  * This interface contains useful methods that return abstractions (such as an
  * Iterator) for working with CSV files.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public interface CsvFileService<T>

@@ -26,7 +26,7 @@ import io.swagger.annotations.ApiResponses;
  * This class is the controller that has the REST API endpoints for validating
  * customer statement records.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 @RestController

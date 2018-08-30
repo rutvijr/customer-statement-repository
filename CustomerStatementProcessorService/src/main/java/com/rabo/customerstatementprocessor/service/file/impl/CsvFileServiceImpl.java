@@ -18,7 +18,7 @@ import com.rabo.customerstatementprocessor.service.file.CsvFileService;
  * This class contains useful methods that return abstractions (such as an
  * Iterator) for working with CSV files.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 @Service

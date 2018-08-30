@@ -20,7 +20,7 @@ package com.rabo.customerstatementprocessor.exception;
  * something to be propagated; it's something to check specifically for and do
  * alternate business logic.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public class RaboBaseException extends RuntimeException

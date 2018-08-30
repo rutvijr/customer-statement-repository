@@ -3,7 +3,7 @@ package com.rabo.customerstatementprocessor.constant;
 /**
  * This class contains the File type strings.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public class FileTypeConstants

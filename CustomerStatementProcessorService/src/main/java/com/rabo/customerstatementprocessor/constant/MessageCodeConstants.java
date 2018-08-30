@@ -4,7 +4,7 @@ package com.rabo.customerstatementprocessor.constant;
  * This class contains the app-specific message codes (primarily the error
  * message codes) that are used to lookup the messages from a message source.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public class MessageCodeConstants

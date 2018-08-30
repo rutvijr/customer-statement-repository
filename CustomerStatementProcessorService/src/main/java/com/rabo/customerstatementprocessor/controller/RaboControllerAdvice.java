@@ -21,7 +21,7 @@ import com.rabo.customerstatementprocessor.model.ErrorResponse;
  * It also logs exceptions so that log statements for exceptions aren't
  * necessary (but can be present) in the specific layers.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  */
 @RestControllerAdvice
 public class RaboControllerAdvice

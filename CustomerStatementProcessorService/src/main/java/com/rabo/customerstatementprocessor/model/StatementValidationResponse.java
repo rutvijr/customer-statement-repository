@@ -9,7 +9,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
  * It contains the customer statement validation response - the list of
  * transactions (with their reference and description) that failed validation.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)

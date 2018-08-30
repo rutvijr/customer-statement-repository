@@ -11,6 +11,8 @@ import org.springframework.stereotype.Component;
  * 
  * It also takes care of merging any given context values with
  * any placeholders in the message to make it a complete message.
+ * 
+ * @author rutvijr@gmail.com
  */
 @Component
 public class RaboMessageResolver

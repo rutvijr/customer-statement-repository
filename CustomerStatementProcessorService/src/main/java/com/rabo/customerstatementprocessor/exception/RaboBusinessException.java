@@ -4,7 +4,7 @@ package com.rabo.customerstatementprocessor.exception;
  * This class extends RaboBaseException and is used to indicate to the
  * caller that a business exception has occurred.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 public class RaboBusinessException extends RaboBaseException

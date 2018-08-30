@@ -7,7 +7,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
  * This class contains the details (reference and description)
  * of a failed transaction.
  * 
- * @author rutvij.ravii@cardinalhealth.com
+ * @author rutvijr@gmail.com
  *
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)
